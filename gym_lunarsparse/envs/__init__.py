@@ -1,0 +1,2 @@
+from gym_lunarsparse.envs.lunarsparse_env import FooEnv
+from gym_lunarsparse.envs.lunarsparse_extrahard_env import FooExtraHardEnv
